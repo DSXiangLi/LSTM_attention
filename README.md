@@ -1,5 +1,8 @@
-# LSTM_attention
+## LSTM_attention
 
-## Retry pickle part on the new tensor template.
+Theano implementation for LSTM step by step. Including following modification on LSTM:
 
-## why the  tarfile don't work with .gz file. Go with gzip 
+1. deep LSTM
+2. double linked LSTM
+3. LSTM with ARIMA
+4. LSTM with attention 
